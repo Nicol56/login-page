@@ -120,7 +120,7 @@ body {
 /* max 4 media */
 @media(max-width:992px) {
     .leftTitle {
-        font-size: 88px;
+        font-size: 90px;
     }
 }
 @media(max-width:576px) {
